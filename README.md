@@ -23,12 +23,12 @@ A lightweight and memory-efficient HTTP client module for MicroPython, optimized
 
 ## Installation
 1. Clone this repository: `https://github.com/Olivier-true/MicroPython-Memory-Friendly-HTTP-Requests.git`
-2. Copy `grequests.py` to your MicroPython device.
+2. Copy `krequests.py` to your MicroPython device.
 3. Start using the module in your MicroPython projects!
 ## Usage
 Import the module:
 ```python
-import grequests as requests
+import krequests as requests
 ```
 
 ### HTTP GET Request
