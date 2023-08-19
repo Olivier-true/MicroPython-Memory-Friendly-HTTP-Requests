@@ -22,7 +22,7 @@ A lightweight and memory-efficient HTTP client module for MicroPython, optimized
 • nanoframework
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/yourusername/micropython-http-requests.git`
+1. Clone this repository: `https://github.com/Olivier-true/MicroPython-Memory-Friendly-HTTP-Requests.git`
 2. Copy `grequests.py` to your MicroPython device.
 3. Start using the module in your MicroPython projects!
 ## Usage
