@@ -3,23 +3,23 @@
 A lightweight and memory-efficient HTTP client module for MicroPython, optimized for use cases on resource-constrained devices such as ESP32.
 
 ## Features
-• Minimal memory footprint: Designed to conserve memory resources, making it suitable for embedded systems and IoT devices.
-• Low-memory usage: Provides efficient memory management during HTTP requests, minimizing memory allocation and deallocation.
-• Support for GET and POST requests: Easily make HTTP GET and POST requests with customizable headers and data.
-• HTTPS Support: Securely communicate with servers using the ssl protocol.
-• Ideal for MicroPython: Specifically crafted for MicroPython environments, enabling seamless integration.
+- Minimal memory footprint: Designed to conserve memory resources, making it suitable for embedded systems and IoT devices.
+- Low-memory usage: Provides efficient memory management during HTTP requests, minimizing memory allocation and deallocation.
+- Support for GET and POST requests: Easily make HTTP GET and POST requests with customizable headers and data.
+- HTTPS Support: Securely communicate with servers using the ssl protocol.
+- Ideal for MicroPython: Specifically crafted for MicroPython environments, enabling seamless integration.
 
 ## Tags
-• micropython
-• esp32
-• requests
-• memory-efficient
-• low-memory
-• http-client
-• iot
-• embedded
-• lightweight
-• nanoframework
+- micropython
+- esp32
+- requests
+- memory-efficient
+- low-memory
+- http-client
+- iot
+- embedded
+- lightweight
+- nanoframework
 
 ## Installation
 1. Clone this repository: `https://github.com/Olivier-true/MicroPython-Memory-Friendly-HTTP-Requests.git`
