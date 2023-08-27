@@ -80,3 +80,5 @@ print("Response Data:", response_data)
 Feel free to contribute to this project and make it even better for memory-conscious MicroPython development! If you encounter any issues or have suggestions, please submit an issue or pull request on GitHub.
 
 Made with ❤️ for MicroPython developers and IoT enthusiasts by Olivier.
+
+<p align="center"><img src="https://ipipip-gh.0xsql.repl.co/friendly-requests/views.png" alt="Visitors"></a></p>
